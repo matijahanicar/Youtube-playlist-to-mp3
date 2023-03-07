@@ -1,4 +1,4 @@
-o### Prerequisites
+### Prerequisites
 
 Non-standard python modules:
 
