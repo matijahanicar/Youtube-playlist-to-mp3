@@ -1,4 +1,4 @@
-### Prerequisites
+o### Prerequisites
 
 Non-standard python modules:
 
@@ -8,3 +8,5 @@ Non-standard python modules:
 
 ### Usage
 Run `script.py`
+
+Output files are saved in `audio` folder
